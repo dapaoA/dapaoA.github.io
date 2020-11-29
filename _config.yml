@@ -194,7 +194,7 @@ sidebar:
   - title: codeforces
     href: //codeforces.com/profile/WuK
     class: 'fas fa-chart-bar fw'
-  - title: 942759535 # qq
+  - title: qq
     class: 'fab fa-qq fa-fw'
   - title: weixin
     class: 'fab fa-weixin fa-fw'
