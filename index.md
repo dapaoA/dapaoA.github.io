@@ -1,23 +1,24 @@
 ---
 layout: index
-title: maopao抄来的博客
+title: Maopao刚抄来的写字场所
 ---
 ## Contact
 
-- Address: **Nanjing University - Nanjing, China**
+- Address: **Nanjing, China**
 - Phone: **不打**
-- E-mail: **dapao114514@gmail.com**
-- 知乎: **maopao**
-- 豆瓣: **dapao**
-- Blog: **<httpsttps://dapaoa.github.io/>**
+- E-mail: **No**
+- 长毛象：**maopao**
+- 知乎: **maopao（已注销）**
+- 豆瓣: **dapao（已封号）**
+- Blog: **<https://dapaoa.github.io/>**
 
 ## Education
 
-School of MoYu, Nanjing University
+Nanjing University
 
 ## Hobbies
 
-- 扯淡和写扯淡的东西
+- 只要是可以扯淡和能用来写扯淡的东西的东西，都喜欢
 
 ## Award
 
